@@ -15,7 +15,7 @@ For proper functionality, follow these steps:
 
 Notes: 
 Modify line 60 to specify the Network Share and the full path to the folder containing the installer and its components.
-The script![2](https://github.com/user-attachments/assets/1416ea1e-f2ea-419f-8ca6-11a3747f5f1c)
+![2](https://github.com/user-attachments/assets/1416ea1e-f2ea-419f-8ca6-11a3747f5f1c)
 The script installs the sensor using a direct connection to Vision One. 
 If the client uses a proxy, comment out line 67 and uncomment line 69, specifying the IP or FQDN and port of the proxy
 ![3](https://github.com/user-attachments/assets/44bc8a8d-cbe0-4d70-b08b-e4cbfe4d55a2)
