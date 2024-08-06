@@ -1,4 +1,4 @@
-Logon Script for Trend Vision One Endpoint Sensor Deployment 
+**Logon Script for Trend Vision One Endpoint Sensor Deployment**
 
 I've created a Logon script in VBS because we’ve found that using PowerShell can be complicated due to the variety of versions that may exist.
 For proper functionality, follow these steps:
